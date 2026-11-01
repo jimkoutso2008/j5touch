@@ -1,4 +1,4 @@
-# j5touch
+# j5touch (also sloppped to death (10 dolphins were sacrificed for this one))
 
 Windows touchscreen driver for the **Samsung Galaxy J5 2016 (SM-J510, MSM8916)**,
 for Windows 10 ARM64 (tested in WinPE 10586.1078.th2_bnb). It needs the
